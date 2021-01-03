@@ -1,0 +1,5 @@
+VALID_EMAIL = "matheusoliver30@gmail.com"
+INVALID_EMAIL = "matheusoliver30@email.com"
+VALID_PASSWORD = "Myhudlpassword123"
+INVALID_PASSWORD = "Thatisnotmypassword123"
+DISPLAY_NAME = "Matheus M"
